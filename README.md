@@ -1,6 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shubhradeepnandi/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq5CDkV7nTPJTOOmTfMlm7g)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq5CDkV7nTPJTOOmTfMlm7g)
 
 
 # Ai430 GenAI Agents: Comprehensive Repository for GenAI Agents 🎯
