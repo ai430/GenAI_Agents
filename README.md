@@ -46,7 +46,7 @@ To begin exploring and building GenAI agents:
 
 ## License
 
-This project is licensed under a custom non-commercial license - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a custom non-commercial license - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ---
 
